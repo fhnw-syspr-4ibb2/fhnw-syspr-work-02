@@ -5,6 +5,12 @@ Für Slides und Code Beispiele, siehe [Lektion 2](../../../fhnw-syspr/blob/maste
 ### Hands-on, ?h: Title
 * Step 1
 
+### Abgabe (optional)
+* Lokale Änderungen [committen und pushen](#git).
+* GitHub [Issue erstellen](../../issues/new) mit "Bitte um Review, @tamberg".
+* Offene Fragen ausformulieren, was geht nicht, was haben Sie versucht.
+* GitHub mailt mir (@tamberg) automatisch, ich versuche in weniger als 24h zu antworten :)
+
 ## Tools
 ### Git
 Auf Ihrem Computer
@@ -12,7 +18,6 @@ Auf Ihrem Computer
 * Nachdem Sie das "Assessment" annehmen, bekommen Sie per Email ein Repository
 * Die REPO_URL enthält Ihren GitHub Account USER_NAME und Ihre Klasse 3ia oder 3ib, z.B.<br/>
             https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-02-tamberg
-
 
 Auf dem Raspberry Pi
 * Repository klonen<pre>
