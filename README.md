@@ -21,6 +21,13 @@ Für Slides und Code Beispiele, siehe [Lektion 2](../../../fhnw-syspr/blob/maste
     int m = max(i + 2, j);
 * m<sub>Makro</sub> = ?, m<sub>Funktion</sub> = ?</pre>
 
+### c) Kompilationsprozess, 20'
+* Kompilieren Sie schrittweise mit cpp, gcc, as und ld.
+* Sehen Sie sich den Inhalt des jeweiligen Outputs an.
+* Versuchen Sie, den ld Schritt zum Laufen zu bringen.
+* Objekt- bzw. Binärdateien können Sie anzeigen mit:<pre>
+    $ objdump -x my.o
+    $ hexdump -C my</pre>
 
 ### Abgabe (optional)
 * Lokale Änderungen [committen und pushen](#git).
