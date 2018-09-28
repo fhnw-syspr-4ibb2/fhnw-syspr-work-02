@@ -5,8 +5,11 @@ Für Slides und Code Beispiele, siehe [Lektion 2](../../../fhnw-syspr/blob/maste
 > *Achtung: Arbeiten Sie nicht direkt auf diesem Repository.*<br/>
 > *[Prüfen Sie die vorhandenen Forks, um das Repository für Ihre Klasse zu finden.](../../network/members)*
 
-### Hands-on, ?h: Title
-* Step 1
+### a) Heap Struct, 20'
+* In [struct.c](https://github.com/tamberg/fhnw-syspr/blob/master/02/struct.c) wird ein Struct auf dem Stack alloziert, mit return zurückgegeben und dabei "by value" kopiert.
+* Schreiben Sie ein Programm *my_struct_v2.c*, das für *create_struct* Pointer und [malloc](http://man7.org/linux/man-pages/man3/malloc.3.html) verwendet:<pre>
+    Point *create_point(int x, int y);</pre>
+* Passen Sie den restlichen Code entsprechend an, der Compiler gibt Ihnen dabei nützliche Hinweise.
 
 ### Abgabe (optional)
 * Lokale Änderungen [committen und pushen](#git).
