@@ -11,7 +11,7 @@ Für Slides und Code Beispiele, siehe [Lektion 2](../../../fhnw-syspr/blob/maste
     Point *create_point(int x, int y);</pre>
 * Passen Sie den restlichen Code entsprechend an, der Compiler gibt Ihnen dabei nützliche Hinweise.
 
-### b) Präprozessor Makros, 5'
+### b) Makros, 5'
 * Gegeben ein Makro:<pre>
     #define max(A, B) ((A) > (B) ? (A) : (B))</pre>
 * Und (separat) die Funktion:<pre>
