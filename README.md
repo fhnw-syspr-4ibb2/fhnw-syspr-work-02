@@ -27,7 +27,7 @@ Für Slides und Code Beispiele, siehe [Lektion 2](../../../fhnw-syspr/blob/maste
     $ cpp my.c > my.i
     $ gcc -S my.i
     $ as -o my.o my.s
-    $ ld -o my my.o</pre>
+    $ ld -o my my.o ...</pre>
 * Sehen Sie sich den Inhalt des jeweiligen Outputs an.
 * Versuchen Sie, den *ld* Schritt zum Laufen zu bringen.
 * Objekt- bzw. Binärdateien können Sie anzeigen mit:<pre>
