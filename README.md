@@ -11,15 +11,11 @@ Für Slides und Code Beispiele, siehe [Lektion 2](../../../fhnw-syspr/blob/maste
     Point *create_point(int x, int y);</pre>
 * Passen Sie den restlichen Code entsprechend an, der Compiler gibt Ihnen dabei nützliche Hinweise.
 
-### b) Makros (auf Papier), 5'
-* Gegeben ein Makro:<pre>
-    #define max(A, B) ((A) > (B) ? (A) : (B))</pre>
-* Und (separat) die Funktion:<pre>
-    int max(int a, int b) { return a > b ? a : b; }</pre>
-* Was passiert beim folgenden Aufruf?<pre>
-    int i = 1, j = 0;
-    int m = max(++i, j);
-* m<sub>Makro</sub> = ?, m<sub>Funktion</sub> = ?</pre>
+### b) Linux Betriebssystem, 5'
+* Aus welchen Teilen besteht das Linux Betriebssystem?
+* Suchen Sie online nach schematischen Darstellungen.
+* Welche Darstellungsweise finden Sie besonders klar?
+* Was sind die jeweiligen Aufgaben einzelner Teile?
 
 ### c) Kilo.c, 15'
 * Analysieren Sie den Source Code dieses Programms:<pre>
