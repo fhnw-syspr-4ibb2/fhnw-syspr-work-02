@@ -21,5 +21,4 @@ Für Slides und Code Beispiele, siehe [Lektion 2](../../../fhnw-syspr/blob/maste
 * Analysieren Sie den Source Code dieses Programms:<pre>
     https://github.com/antirez/kilo/blob/master/kilo.c</pre>
 * Kompilieren Sie das Programm und benutzen Sie es.
-* Was macht das Programm? Gibt es extra Features?
-* Was fällt Ihnen im Source Code besonders auf?
+* Wie verwaltet das Programm eingegebenen Text?
