@@ -16,9 +16,3 @@ Für Slides und Code Beispiele, siehe [Lektion 2](../../../fhnw-syspr/blob/maste
 * Suchen Sie online nach schematischen Darstellungen.
 * Welche Darstellungsweise finden Sie besonders klar?
 * Was sind die jeweiligen Aufgaben einzelner Teile?
-
-### c) Kilo.c, 15'
-* Analysieren Sie den Source Code dieses Programms:<pre>
-    https://github.com/antirez/kilo/blob/master/kilo.c</pre>
-* Kompilieren Sie das Programm und benutzen Sie es.
-* Wie verwaltet das Programm eingegebenen Text?
